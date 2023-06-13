@@ -27,12 +27,22 @@ main {
     margin-top: 0;
 }
 
-.profile-picture{
-    margin-left:30px;
+.profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    justify-content: center;
+}
+  
+.profile-picture{
+    margin-right: 0;
     border-radius: 9999px;
 }
+
+.profile-section h1 p{
+    padding-top: 15px;
+}
+  
 
 .badge {
     display: inline-block;
@@ -48,6 +58,25 @@ main {
     vertical-align: middle;
     margin-right: 5px;
 }
+
+.resume-button {
+    display: inline-block;
+    background-color: #1f252e;
+    color: rgb(114, 159, 237);
+    border: none;
+    padding: 10px 18px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .resume-button:hover {
+    background-color: #0e1216;
+    color: rgb(114, 159, 237);
+  }
+  
 
 footer {
     position: fixed;
@@ -106,6 +135,6 @@ footer {
   }
   
   .navbar-item a:hover {
-    color: #ff0000;
+    color: rgb(114, 159, 237);
   }
   
