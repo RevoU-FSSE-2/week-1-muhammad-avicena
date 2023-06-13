@@ -75,8 +75,8 @@ main {
   }
   
   .resume-button:hover {
-    background-color: #0e1216;
-    color: rgb(114, 159, 237);
+    background-color: #ffffff;
+    color: rgb(51, 69, 100);
   }
   
 
@@ -108,9 +108,13 @@ footer {
     width: 20px;
 }
 
+.section a:hover {
+    color: rgb(114, 159, 237);
+}
+
 .navbar {
     background-color: #161b22;
-    padding: 30px;
+    padding: 20px;
   }
   
   .navbar-list {
@@ -139,4 +143,25 @@ footer {
   .navbar-item a:hover {
     color: rgb(114, 159, 237);
   }
+
+  .toast {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #ffffff;
+    color: rgb(7, 20, 42);
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  .toast-button {
+    margin-top: 50px;
+    background-color: #333;
+    color: rgb(114, 159, 237);
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
   
