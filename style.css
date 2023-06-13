@@ -1,0 +1,109 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    margin-top: 0;
+}
+
+.profile-picture{
+    margin-left:30px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 9999px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  }
+
+.badge img {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #efefef;
+    color: black;
+    text-align: center;
+    padding: 20px;
+  }
+
+  li {
+    margin: 0 10px;
+  }
+
+  li a {
+    text-decoration: none;
+    color: #000000;
+  }
+
+  li a:hover {
+    color: #000;
+  }
+
+.icon {
+    width: 20px;
+}
+
+.navbar {
+    background-color: #efefef;
+    padding: 10px;
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-item {
+    margin-right: 20px;
+  }
+  
+  .navbar-item:last-child {
+    margin-right: 0;
+  }
+  
+  .navbar-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .navbar-item a:hover {
+    color: #ff0000;
+  }
+  
