@@ -1,6 +1,6 @@
-![image](https://github.com/RevoU-FSSE-2/week-1-muhammad-avicena/assets/49929404/f605ae94-608d-4be0-9420-e915e7761f80)
+![image](https://github.com/RevoU-FSSE-2/week-1-muhammad-avicena/assets/49929404/57ca0ead-07f4-49da-a67c-1a19153e725f)
 
-<h1 align="center">Hello, nice to meet you ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
+<h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
 ## STRUCTURE
 - Header
