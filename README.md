@@ -1,4 +1,4 @@
-![image](https://github.com/RevoU-FSSE-2/week-1-muhammad-avicena/assets/49929404/57ca0ead-07f4-49da-a67c-1a19153e725f)
+![image](https://github.com/RevoU-FSSE-2/week-1-muhammad-avicena/assets/49929404/b69e3af4-d305-416a-806f-98e5ff4010b1)
 
 <h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
@@ -27,7 +27,7 @@ You can find me on :
 - HTML
 - CSS
 - JavaScript
-- External
+- External Source
   - Icon
   - Badge
   - Image
