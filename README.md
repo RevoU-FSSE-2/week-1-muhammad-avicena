@@ -31,6 +31,7 @@ You can find me on :
   - Icon
   - Badge
   - Image
+  - Sound
 
 
 
