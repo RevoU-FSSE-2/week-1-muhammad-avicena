@@ -163,11 +163,6 @@ footer {
     border-radius: 4px;
     font-size: 16px;
   }
-  
-  /* .toast img {
-    width: 250px;
-    height: 200px;
-  } */
 
   .toast-text {
     font-size: 18px;
@@ -178,5 +173,7 @@ footer {
     align-items: center;
     text-align: center;
   }
+
+  
 
   

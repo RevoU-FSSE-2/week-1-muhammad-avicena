@@ -8,7 +8,7 @@ function showToast() {
 
   const text = document.createElement("div");
   text.classList.add("toast-text");
-  text.innerText = "MEMORABLE MEME OF THE WEEK :";
+  text.innerText = "MEMORABLE MEME OF WEEK 1 AT REVOU 😂 :";
   toast.appendChild(text);
 
   const gif = document.createElement("img");
@@ -25,5 +25,7 @@ function showToast() {
     toast.remove();
     sound.pause();
     sound.currentTime = 0;
-  }, 8000);
+  }, 12000);
 }
+
+
